@@ -1,0 +1,5 @@
+com\seleniumproject\pages\AmazonSearchPage.class
+com\seleniumproject\pages\AmazonLoginPage.class
+com\seleniumproject\pages\AmazonProductPage.class
+com\seleniumproject\config\ConfigReader.class
+com\seleniumproject\core\DriverFactory.class
